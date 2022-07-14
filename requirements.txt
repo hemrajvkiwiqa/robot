@@ -1,0 +1,5 @@
+pyserial
+robotframework
+robotframework-seriallibrary
+bleak
+docutils
